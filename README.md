@@ -38,4 +38,3 @@ To develop a robust embedded controller architecture that serves as the brain of
 
 ---
 
-## Planned Firmware Architecture
